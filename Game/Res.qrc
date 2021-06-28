@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>D:/img/balloon1.png</file>
+        <file>D:/img/balloon2.png</file>
+        <file>D:/img/balloon3.png</file>
+        <file>D:/img/balloon4.png</file>
+        <file>D:/img/balloon5.png</file>
+        <file>D:/img/balloon6.png</file>
+        <file>D:/img/boom.png</file>
+        <file>D:/img/sky.png</file>
+    </qresource>
+</RCC>
